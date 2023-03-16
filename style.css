@@ -37,7 +37,7 @@ h2 {
 
 .hero {
     display: flex;
-    background-image: url(./asset/skyscraper.jpg);
+    background-image: url(./assets/skyscraper.jpg);
     justify-content: center;
     align-items: center;
     height: 50vh;
